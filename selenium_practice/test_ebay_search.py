@@ -2,6 +2,7 @@ import pytest
 from selenium.webdriver.common.by import By
 
 
+
 @pytest.mark.parametrize("item",
                          [
                              "macbook pro",
